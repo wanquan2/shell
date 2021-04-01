@@ -17,4 +17,4 @@ for item in $(ls ./files); #$(ls ./files)你可以写成 `ls ./files`
 
 $(git add .)
 $(git commit -m "${COMMIT}")
-$(git push origin main)
+$(git push origin master)
