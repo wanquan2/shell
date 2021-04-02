@@ -1,5 +1,5 @@
 {
-  "dependencies": {
-    "sh": "^0.0.3"
-  }
+  "name": "shll",
+  "version": "1.0.0",
+  "description": "shell练习"
 }
