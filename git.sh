@@ -1,3 +1,5 @@
+#!/bin/bash
+
 COMMITTEXT=$(node -p "require('./package.json').version");
 
 git add .
