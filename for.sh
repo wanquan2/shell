@@ -15,7 +15,7 @@ do
     echo $item
 done
 
-#until循环 执行一系列命令知道条件满足是停止
+#until循环 执行一系列命令直到条件满足是停止
 until [ $NUMBER == 10 ]
 do
     echo $NUMBER
